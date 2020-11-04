@@ -7,7 +7,4 @@
 <strong>📫 How to reach me </strong>
    
    1. [Email](mailto:guillaume.leon2000@gmail.com) (Prefered)
-   2. [Linkedin](https://www.linkedin.com/in/hedy-li-8608831a6/)
-   
-
-
+   2. [Linkedin](https://www.linkedin.com/in/guillaume-leon-b5382616b)
